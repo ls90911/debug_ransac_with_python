@@ -1,0 +1,251 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCELS_BFP_OF_REAL	pprz_algebra.h	797;"	d
+ACCELS_FLOAT_OF_BFP	pprz_algebra.h	791;"	d
+EULERS_ADD	pprz_algebra.h	280;"	d
+EULERS_ASSIGN	pprz_algebra.h	273;"	d
+EULERS_BFP_OF_REAL	pprz_algebra.h	711;"	d
+EULERS_BOUND_CUBE	pprz_algebra.h	316;"	d
+EULERS_COPY	pprz_algebra.h	267;"	d
+EULERS_DIFF	pprz_algebra.h	294;"	d
+EULERS_FLOAT_OF_BFP	pprz_algebra.h	705;"	d
+EULERS_SDIV	pprz_algebra.h	309;"	d
+EULERS_SMUL	pprz_algebra.h	302;"	d
+EULERS_SUB	pprz_algebra.h	287;"	d
+FLOAT_ANGLE_NORMALIZE	pprz_algebra_float.h	99;"	d
+FLOAT_EULERS_NORM	pprz_algebra_float.h	513;"	d
+FLOAT_EULERS_OF_QUAT	pprz_algebra_float.h	512;"	d
+FLOAT_EULERS_OF_RMAT	pprz_algebra_float.h	511;"	d
+FLOAT_EULERS_ZERO	pprz_algebra_float.h	499;"	d
+FLOAT_MAT33_DIAG	pprz_algebra_float.h	220;"	d
+FLOAT_MAT33_ZERO	pprz_algebra_float.h	208;"	d
+FLOAT_QUAT_COMP	pprz_algebra_float.h	474;"	d
+FLOAT_QUAT_COMP_INV	pprz_algebra_float.h	477;"	d
+FLOAT_QUAT_COMP_INV_NORM_SHORTEST	pprz_algebra_float.h	479;"	d
+FLOAT_QUAT_COMP_NORM_SHORTEST	pprz_algebra_float.h	478;"	d
+FLOAT_QUAT_DERIVATIVE	pprz_algebra_float.h	484;"	d
+FLOAT_QUAT_DERIVATIVE_LAGRANGE	pprz_algebra_float.h	485;"	d
+FLOAT_QUAT_DIFFERENTIAL	pprz_algebra_float.h	481;"	d
+FLOAT_QUAT_EXTRACT	pprz_algebra_float.h	389;"	d
+FLOAT_QUAT_INTEGRATE	pprz_algebra_float.h	482;"	d
+FLOAT_QUAT_INVERT	pprz_algebra_float.h	470;"	d
+FLOAT_QUAT_INV_COMP	pprz_algebra_float.h	476;"	d
+FLOAT_QUAT_INV_COMP_NORM_SHORTEST	pprz_algebra_float.h	480;"	d
+FLOAT_QUAT_MULT	pprz_algebra_float.h	475;"	d
+FLOAT_QUAT_NORM	pprz_algebra_float.h	472;"	d
+FLOAT_QUAT_NORM2	pprz_algebra_float.h	359;"	d
+FLOAT_QUAT_NORMALIZE	pprz_algebra_float.h	473;"	d
+FLOAT_QUAT_OF_AXIS_ANGLE	pprz_algebra_float.h	487;"	d
+FLOAT_QUAT_OF_EULERS	pprz_algebra_float.h	486;"	d
+FLOAT_QUAT_OF_ORIENTATION_VECT	pprz_algebra_float.h	488;"	d
+FLOAT_QUAT_OF_RMAT	pprz_algebra_float.h	489;"	d
+FLOAT_QUAT_VMULT	pprz_algebra_float.h	483;"	d
+FLOAT_QUAT_WRAP_SHORTEST	pprz_algebra_float.h	471;"	d
+FLOAT_QUAT_ZERO	pprz_algebra_float.h	469;"	d
+FLOAT_RATES_INTEGRATE_FI	pprz_algebra_float.h	201;"	d
+FLOAT_RATES_LIN_CMB	pprz_algebra_float.h	183;"	d
+FLOAT_RATES_NORM	pprz_algebra_float.h	181;"	d
+FLOAT_RATES_OF_EULER_DOT	pprz_algebra_float.h	202;"	d
+FLOAT_RATES_ZERO	pprz_algebra_float.h	177;"	d
+FLOAT_RMAT_COMP	pprz_algebra_float.h	329;"	d
+FLOAT_RMAT_COMP_INV	pprz_algebra_float.h	330;"	d
+FLOAT_RMAT_INTEGRATE_FI	pprz_algebra_float.h	340;"	d
+FLOAT_RMAT_INV	pprz_algebra_float.h	327;"	d
+FLOAT_RMAT_NORM	pprz_algebra_float.h	328;"	d
+FLOAT_RMAT_OF_AXIS_ANGLE	pprz_algebra_float.h	335;"	d
+FLOAT_RMAT_OF_EULERS	pprz_algebra_float.h	336;"	d
+FLOAT_RMAT_OF_EULERS_312	pprz_algebra_float.h	338;"	d
+FLOAT_RMAT_OF_EULERS_321	pprz_algebra_float.h	337;"	d
+FLOAT_RMAT_OF_QUAT	pprz_algebra_float.h	339;"	d
+FLOAT_RMAT_RATEMULT	pprz_algebra_float.h	333;"	d
+FLOAT_RMAT_TRANSP_RATEMULT	pprz_algebra_float.h	334;"	d
+FLOAT_RMAT_TRANSP_VMULT	pprz_algebra_float.h	332;"	d
+FLOAT_RMAT_VMULT	pprz_algebra_float.h	331;"	d
+FLOAT_VECT2_NORM	pprz_algebra_float.h	118;"	d
+FLOAT_VECT2_NORMALIZE	pprz_algebra_float.h	140;"	d
+FLOAT_VECT2_ZERO	pprz_algebra_float.h	115;"	d
+FLOAT_VECT3_INTEGRATE_FI	pprz_algebra_float.h	200;"	d
+FLOAT_VECT3_NORM	pprz_algebra_float.h	150;"	d
+FLOAT_VECT3_NORMALIZE	pprz_algebra_float.h	173;"	d
+FLOAT_VECT3_ZERO	pprz_algebra_float.h	147;"	d
+FloatEulers	pprz_algebra_float.h	/^struct FloatEulers {$/;"	s
+FloatMat33	pprz_algebra_float.h	/^struct FloatMat33 {$/;"	s
+FloatQuat	pprz_algebra_float.h	/^struct FloatQuat {$/;"	s
+FloatRMat	pprz_algebra_float.h	/^struct FloatRMat {$/;"	s
+FloatRates	pprz_algebra_float.h	/^struct FloatRates {$/;"	s
+FloatVect2	pprz_algebra_float.h	/^struct FloatVect2 {$/;"	s
+FloatVect3	pprz_algebra_float.h	/^struct FloatVect3 {$/;"	s
+MAGS_BFP_OF_REAL	pprz_algebra.h	809;"	d
+MAGS_FLOAT_OF_BFP	pprz_algebra.h	803;"	d
+MAKE_MATRIX_PTR_D1	pprz_algebra_float.h	624;"	d
+MAKE_MATRIX_PTR_S	pprz_algebra_float.h	618;"	d
+MAT33_COPY	pprz_algebra.h	437;"	d
+MAT33_ELMT	pprz_algebra.h	435;"	d
+MAT33_INV	pprz_algebra.h	488;"	d
+MAT33_MAT33_DIFF	pprz_algebra.h	532;"	d
+MAT33_MAT33_SUM	pprz_algebra.h	544;"	d
+MAT33_MULT_SCALAR	pprz_algebra.h	449;"	d
+MAT33_ROW_VECT3_SMUL	pprz_algebra.h	513;"	d
+MAT33_TRANS	pprz_algebra.h	556;"	d
+MAT33_VECT3_MUL	pprz_algebra.h	462;"	d
+MAT33_VECT3_TRANSP_MUL	pprz_algebra.h	475;"	d
+MAT_INV33	pprz_simple_matrix.h	99;"	d
+MAT_MUL	pprz_simple_matrix.h	46;"	d
+MAT_MUL_T	pprz_simple_matrix.h	59;"	d
+MAT_MUL_VECT	pprz_simple_matrix.h	86;"	d
+MAT_MUL_c	pprz_simple_matrix.h	150;"	d
+MAT_PRINT	pprz_simple_matrix.h	161;"	d
+MAT_SUB	pprz_simple_matrix.h	73;"	d
+MAT_SUM	pprz_simple_matrix.h	129;"	d
+MAT_SUM_c	pprz_simple_matrix.h	140;"	d
+M_SQRT2	pprz_algebra_float.h	46;"	d
+POSITIONS_BFP_OF_REAL	pprz_algebra.h	773;"	d
+POSITIONS_FLOAT_OF_BFP	pprz_algebra.h	767;"	d
+PPRZ_ALGEBRA_FLOAT_H	pprz_algebra_float.h	32;"	d
+PPRZ_ALGEBRA_H	pprz_algebra.h	37;"	d
+PPRZ_MATRIX_DECOMP_FLOAT_H	pprz_matrix_decomp_float.h	28;"	d
+PPRZ_SIMPLE_MATRIX_H	pprz_simple_matrix.h	28;"	d
+QUAT_ADD	pprz_algebra.h	615;"	d
+QUAT_ASSIGN	pprz_algebra.h	576;"	d
+QUAT_BFP_OF_REAL	pprz_algebra.h	748;"	d
+QUAT_COPY	pprz_algebra.h	592;"	d
+QUAT_DIFF	pprz_algebra.h	584;"	d
+QUAT_DOT_PRODUCT	pprz_algebra.h	646;"	d
+QUAT_EXPLEMENTARY	pprz_algebra.h	599;"	d
+QUAT_EXTRACT_Q	pprz_algebra.h	631;"	d
+QUAT_FLOAT_OF_BFP	pprz_algebra.h	741;"	d
+QUAT_INVERT	pprz_algebra.h	623;"	d
+QUAT_SDIV	pprz_algebra.h	638;"	d
+QUAT_SMUL	pprz_algebra.h	607;"	d
+RANSAC_H	RANSAC.h	36;"	d
+RANSAC_linear_model	RANSAC.c	/^void RANSAC_linear_model(int n_samples, int n_iterations, float error_threshold, float targets[MAX_SAMPLES], int Dimension,$/;"	f
+RANSAC_linear_model	RANSAC.cpp	/^void RANSAC_linear_model(int n_samples, int n_iterations, float error_threshold, float *targets, int D,$/;"	f
+RATES_ADD	pprz_algebra.h	343;"	d
+RATES_ADD_SCALED_VECT	pprz_algebra.h	418;"	d
+RATES_ASSIGN	pprz_algebra.h	329;"	d
+RATES_BFP_OF_REAL	pprz_algebra.h	761;"	d
+RATES_BOUND_BOX	pprz_algebra.h	406;"	d
+RATES_BOUND_BOX_ABS	pprz_algebra.h	412;"	d
+RATES_BOUND_CUBE	pprz_algebra.h	400;"	d
+RATES_COPY	pprz_algebra.h	336;"	d
+RATES_DIFF	pprz_algebra.h	371;"	d
+RATES_EWMULT_RSHIFT	pprz_algebra.h	392;"	d
+RATES_FLOAT_OF_BFP	pprz_algebra.h	755;"	d
+RATES_SDIV	pprz_algebra.h	385;"	d
+RATES_SMUL	pprz_algebra.h	378;"	d
+RATES_SUB	pprz_algebra.h	350;"	d
+RATES_SUM	pprz_algebra.h	357;"	d
+RATES_SUM_SCALED	pprz_algebra.h	364;"	d
+RMAT_BFP_OF_REAL	pprz_algebra.h	717;"	d
+RMAT_COPY	pprz_algebra.h	700;"	d
+RMAT_DIFF	pprz_algebra.h	662;"	d
+RMAT_ELMT	pprz_algebra.h	656;"	d
+RMAT_FLOAT_OF_BFP	pprz_algebra.h	729;"	d
+RMAT_TRACE	pprz_algebra.h	659;"	d
+RMAT_VECT3_MUL	pprz_algebra.h	675;"	d
+RMAT_VECT3_TRANSP_MUL	pprz_algebra.h	687;"	d
+SPEEDS_BFP_OF_REAL	pprz_algebra.h	785;"	d
+SPEEDS_FLOAT_OF_BFP	pprz_algebra.h	779;"	d
+SQUARE	pprz_algebra.h	47;"	d
+VECT2_ADD	pprz_algebra.h	73;"	d
+VECT2_ASSIGN	pprz_algebra.h	61;"	d
+VECT2_COPY	pprz_algebra.h	67;"	d
+VECT2_DIFF	pprz_algebra.h	91;"	d
+VECT2_DOT_PRODUCT	pprz_algebra.h	115;"	d
+VECT2_NORM2	pprz_algebra.h	117;"	d
+VECT2_SDIV	pprz_algebra.h	103;"	d
+VECT2_SMUL	pprz_algebra.h	97;"	d
+VECT2_STRIM	pprz_algebra.h	109;"	d
+VECT2_SUB	pprz_algebra.h	79;"	d
+VECT2_SUM	pprz_algebra.h	85;"	d
+VECT3_ABS	pprz_algebra.h	237;"	d
+VECT3_ADD	pprz_algebra.h	146;"	d
+VECT3_ADD_SCALED	pprz_algebra.h	167;"	d
+VECT3_ASSIGN	pprz_algebra.h	124;"	d
+VECT3_ASSIGN_ABS	pprz_algebra.h	132;"	d
+VECT3_BOUND_BOX	pprz_algebra.h	230;"	d
+VECT3_BOUND_CUBE	pprz_algebra.h	223;"	d
+VECT3_COPY	pprz_algebra.h	139;"	d
+VECT3_CROSS_PRODUCT	pprz_algebra.h	243;"	d
+VECT3_DIFF	pprz_algebra.h	181;"	d
+VECT3_DOT_PRODUCT	pprz_algebra.h	249;"	d
+VECT3_EW_DIV	pprz_algebra.h	209;"	d
+VECT3_EW_MUL	pprz_algebra.h	216;"	d
+VECT3_NORM2	pprz_algebra.h	251;"	d
+VECT3_RATES_CROSS_VECT3	pprz_algebra.h	253;"	d
+VECT3_SDIV	pprz_algebra.h	195;"	d
+VECT3_SMUL	pprz_algebra.h	188;"	d
+VECT3_STRIM	pprz_algebra.h	202;"	d
+VECT3_SUB	pprz_algebra.h	153;"	d
+VECT3_SUM	pprz_algebra.h	160;"	d
+VECT3_SUM_SCALED	pprz_algebra.h	174;"	d
+VECT3_VECT3_TRANS_MUL	pprz_algebra.h	520;"	d
+fit_linear_model	pprz_matrix_decomp_float.c	/^void fit_linear_model(float targets[MAX_SAMPLES], int Dimension, float samples[MAX_SAMPLES][1], uint16_t count, bool use_bias, float *params,$/;"	f
+float_eulers_norm	pprz_algebra_float.h	/^static inline float float_eulers_norm(struct FloatEulers *e)$/;"	f
+float_mat_col	pprz_algebra_float.h	/^static inline void float_mat_col(float *o, float **a, int m, int c)$/;"	f
+float_mat_copy	pprz_algebra_float.h	/^static inline void float_mat_copy(float **a, float **b, int m, int n)$/;"	f
+float_mat_diagonal_scal	pprz_algebra_float.h	/^static inline void float_mat_diagonal_scal(float **o, float v, int n)$/;"	f
+float_mat_diff	pprz_algebra_float.h	/^static inline void float_mat_diff(float **o, float **a, float **b, int m, int n)$/;"	f
+float_mat_minor	pprz_algebra_float.h	/^static inline void float_mat_minor(float **o, float **a, int m, int n, int d)$/;"	f
+float_mat_mul	pprz_algebra_float.h	/^static inline void float_mat_mul(float **o, float **a, float **b, int m, int n, int l)$/;"	f
+float_mat_sum	pprz_algebra_float.h	/^static inline void float_mat_sum(float **o, float **a, float **b, int m, int n)$/;"	f
+float_mat_transpose	pprz_algebra_float.h	/^static inline void float_mat_transpose(float **o, float **a, int n, int m)$/;"	f
+float_mat_transpose_square	pprz_algebra_float.h	/^static inline void float_mat_transpose_square(float **a, int n)$/;"	f
+float_mat_vect_mul	pprz_algebra_float.h	/^static inline void float_mat_vect_mul(float *o, float **a, float *b, int m, int n)$/;"	f
+float_mat_vmul	pprz_algebra_float.h	/^static inline void float_mat_vmul(float **o, float *v, int n)$/;"	f
+float_mat_zero	pprz_algebra_float.h	/^static inline void float_mat_zero(float **a, int m, int n)$/;"	f
+float_quat_identity	pprz_algebra_float.h	/^static inline void float_quat_identity(struct FloatQuat *q)$/;"	f
+float_quat_invert	pprz_algebra_float.h	/^static inline void float_quat_invert(struct FloatQuat *qo, struct FloatQuat *qi)$/;"	f
+float_quat_norm	pprz_algebra_float.h	/^static inline float float_quat_norm(struct FloatQuat *q)$/;"	f
+float_quat_normalize	pprz_algebra_float.h	/^static inline void float_quat_normalize(struct FloatQuat *q)$/;"	f
+float_quat_wrap_shortest	pprz_algebra_float.h	/^static inline void float_quat_wrap_shortest(struct FloatQuat *q)$/;"	f
+float_rmat_identity	pprz_algebra_float.h	/^static inline void float_rmat_identity(struct FloatRMat *rm)$/;"	f
+float_rmat_of_eulers	pprz_algebra_float.h	319;"	d
+float_vect2_norm	pprz_algebra_float.h	/^static inline float float_vect2_norm(struct FloatVect2 *v)$/;"	f
+float_vect2_norm2	pprz_algebra_float.h	/^static inline float float_vect2_norm2(struct FloatVect2 *v)$/;"	f
+float_vect2_normalize	pprz_algebra_float.h	/^static inline void float_vect2_normalize(struct FloatVect2 *v)$/;"	f
+float_vect3_norm	pprz_algebra_float.h	/^static inline float float_vect3_norm(struct FloatVect3 *v)$/;"	f
+float_vect3_norm2	pprz_algebra_float.h	/^static inline float float_vect3_norm2(struct FloatVect3 *v)$/;"	f
+float_vect3_normalize	pprz_algebra_float.h	/^static inline void float_vect3_normalize(struct FloatVect3 *v)$/;"	f
+float_vect_add	pprz_algebra_float.h	/^static inline void float_vect_add(float *a, const float *b, const int n)$/;"	f
+float_vect_copy	pprz_algebra_float.h	/^static inline void float_vect_copy(float *a, const float *b, const int n)$/;"	f
+float_vect_diff	pprz_algebra_float.h	/^static inline void float_vect_diff(float *o, const float *a, const float *b, const int n)$/;"	f
+float_vect_dot_product	pprz_algebra_float.h	/^static inline float float_vect_dot_product(const float *a, const float *b, const int n)$/;"	f
+float_vect_mul	pprz_algebra_float.h	/^static inline void float_vect_mul(float *o, const float *a, const float *b, const int n)$/;"	f
+float_vect_norm	pprz_algebra_float.h	/^static inline float float_vect_norm(const float *a, const int n)$/;"	f
+float_vect_scale	pprz_algebra_float.h	/^static inline void float_vect_scale(float *a, const float s, const int n)$/;"	f
+float_vect_sdiv	pprz_algebra_float.h	/^static inline void float_vect_sdiv(float *o, const float *a, const float s, const int n)$/;"	f
+float_vect_smul	pprz_algebra_float.h	/^static inline void float_vect_smul(float *o, const float *a, const float s, const int n)$/;"	f
+float_vect_sub	pprz_algebra_float.h	/^static inline void float_vect_sub(float *a, const float *b, const int n)$/;"	f
+float_vect_sum	pprz_algebra_float.h	/^static inline void float_vect_sum(float *o, const float *a, const float *b, const int n)$/;"	f
+float_vect_zero	pprz_algebra_float.h	/^static inline void float_vect_zero(float *a, const int n)$/;"	f
+get_indices_without_replacement	RANSAC.c	/^void get_indices_without_replacement(int *indices_subset, int n_samples, int count)$/;"	f
+get_indices_without_replacement	RANSAC.cpp	/^void get_indices_without_replacement(int *indices_subset, int n_samples, int count)$/;"	f
+m	pprz_algebra_float.h	/^  float m[3 * 3];$/;"	m	struct:FloatMat33
+m	pprz_algebra_float.h	/^  float m[3 * 3];$/;"	m	struct:FloatRMat
+p	pprz_algebra_float.h	/^  float p; \/\/\/< in rad\/s$/;"	m	struct:FloatRates
+phi	pprz_algebra_float.h	/^  float phi; \/\/\/< in radians$/;"	m	struct:FloatEulers
+pprz_svd_float	pprz_matrix_decomp_float.c	/^int pprz_svd_float(float **a, float *w, float **v, int m, int n)$/;"	f
+pprz_svd_solve_float	pprz_matrix_decomp_float.c	/^void pprz_svd_solve_float(float **x, float **u, float *w, float **v, float **b, int m, int n, int l)$/;"	f
+predict_value	RANSAC.c	/^float predict_value(float *sample, float *weights, int Dimension, bool use_bias)$/;"	f
+predict_value	RANSAC.cpp	/^float predict_value(float *sample, float *weights, int D, bool use_bias)$/;"	f
+psi	pprz_algebra_float.h	/^  float psi; \/\/\/< in radians$/;"	m	struct:FloatEulers
+pythag	pprz_matrix_decomp_float.c	/^static inline float pythag(float a, float b)$/;"	f	file:
+q	pprz_algebra_float.h	/^  float q; \/\/\/< in rad\/s$/;"	m	struct:FloatRates
+qi	pprz_algebra_float.h	/^  float qi;$/;"	m	struct:FloatQuat
+qx	pprz_algebra_float.h	/^  float qx;$/;"	m	struct:FloatQuat
+qy	pprz_algebra_float.h	/^  float qy;$/;"	m	struct:FloatQuat
+qz	pprz_algebra_float.h	/^  float qz;$/;"	m	struct:FloatQuat
+r	pprz_algebra_float.h	/^  float r; \/\/\/< in rad\/s$/;"	m	struct:FloatRates
+theta	pprz_algebra_float.h	/^  float theta; \/\/\/< in radians$/;"	m	struct:FloatEulers
+warn_message	pprz_simple_matrix.h	38;"	d
+warn_message	pprz_simple_matrix.h	40;"	d
+x	pprz_algebra_float.h	/^  float x;$/;"	m	struct:FloatVect2
+x	pprz_algebra_float.h	/^  float x;$/;"	m	struct:FloatVect3
+y	pprz_algebra_float.h	/^  float y;$/;"	m	struct:FloatVect2
+y	pprz_algebra_float.h	/^  float y;$/;"	m	struct:FloatVect3
+z	pprz_algebra_float.h	/^  float z;$/;"	m	struct:FloatVect3
